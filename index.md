@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-#Esta es mi pagina web 
+# Esta es mi pagina web 
 
-##un texto mas pequeño
+## un texto mas pequeño
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
